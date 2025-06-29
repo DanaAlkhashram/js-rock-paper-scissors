@@ -1,45 +1,39 @@
-# 🎮 Game Title
+# ✊✋✌️ Rock, Paper, Scissors
 
-![Screenshot or Logo](./path-to-your-screenshot-or-logo.png)
+![Game Screenshot](./assets/screenshot.png)
 
 ## 🕹️ Description
 
-Briefly describe what your game does.  
-Include any background info about your inspiration, theme, or why you chose to make this game.  
-For example:
-> This game is inspired by classic arcade mechanics and aims to challenge players to think quickly under pressure.
+This is a simple Rock, Paper, Scissors game made with HTML, CSS, and JavaScript.  
+The player chooses rock, paper, or scissors. The computer makes a random choice.  
+The game compares the choices and shows who wins. First to 5 points wins the match!
 
 ## 🚀 Getting Started
 
-**Play the game here:** [Deployed Game Link](https://your-deployment-link.com)
+👉 **Play it here:** [https://your-deployment-link.com](https://your-deployment-link.com)
 
-**Project Planning Materials:**  
-- [Wireframes](./planning/wireframes.png)  
-- [User Stories](./planning/user-stories.md)  
-- [Trello Board](https://trello.com/your-board)
+👉 **Planning Materials:**
+- [User Stories](./planning/user-stories.md)
+- [Wireframe](./planning/wireframe.png)
 
-**Instructions to play:**
-1. Open the game using the link above.
-2. Follow on-screen instructions to begin.
-3. Use arrow keys / mouse / etc. to interact with the game.
+### How to Play
+1. Open the link to the game.
+2. Click Rock, Paper, or Scissors.
+3. The computer will choose too.
+4. The winner is shown. First to 5 points wins!
 
 ## 💡 Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- [Any frameworks or libraries you used]
 
 ## 📚 Attributions
 
-- [Library or asset name](https://link.com) - for [describe what it was used for]
-- [Sound effect](https://link.com) by [Author Name] - licensed under [License Type]
-
-> _If no external assets were used, you can remove this section._
+- [Icons from Font Awesome](https://fontawesome.com/)
 
 ## 🚧 Next Steps
 
-- Add difficulty levels
-- Create a leaderboard using localStorage or a database
-- Add animations and sound effects
-- Make it mobile-friendly
+- Add sound effects
+- Add animations
+- Make it work on phones
